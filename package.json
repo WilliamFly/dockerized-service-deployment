@@ -1,0 +1,13 @@
+{
+  "name": "dockerized-service-deployment",
+  "version": "1.0.0",
+  "description": "Dockerized Node.js service with Basic Auth protected route",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  }
+}
